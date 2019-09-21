@@ -66,7 +66,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/amreddys/ckeditor5-build-classic-with-simpleuploader.git"
   },
   "scripts": {
     "build": "webpack --mode production",
